@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Affan Ali Hashmi</h1>
-<h3 align="center">Project Manager | Team Lead | MERN Stack | React Native</h3>
+<h3 align="center">Project Manager | Team Lead | Software Engineer | MERN Stack | React Native | Freelancer</h3>
 
 - 🔭 I’m currently working on [MyCabify | Taxi Dispatch System ERP](https://mycabify.co.uk)
 
